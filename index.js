@@ -103,3 +103,5 @@ function modeSwitch() {
 
   root.classList.toggle("lightMode");
 }
+
+/* This is another modificatioin to the master branch! */
